@@ -24,12 +24,12 @@ Soy un apasionado desarrollador full stack junior con experiencia en la creació
 - TypeScript
 - Next.js
 - Bootstrap
-<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/54966330-c777-4ac3-878f-2994b23f05da" alt="gif" width="50">
-<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/6660d49b-372a-4791-a103-d89a2ef5d726" alt="gif" width="50">
-<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/064cead6-9925-4e69-9469-e93b3aadd44e" alt="gif" width="50">
-<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/cefed778-6dce-4f3b-a333-458707af62a3" alt="gif" width="50">
-<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/46daf208-59db-4186-8df1-878f1baa1293" alt="gif" width="50">
-<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/85400e53-0248-41d1-9469-6de8509003eb" alt="gif" width="50">
+<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/54966330-c777-4ac3-878f-2994b23f05da" alt="gif" width="75">
+<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/6660d49b-372a-4791-a103-d89a2ef5d726" alt="gif" width="75">
+<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/064cead6-9925-4e69-9469-e93b3aadd44e" alt="gif" width="75">
+<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/cefed778-6dce-4f3b-a333-458707af62a3" alt="gif" width="75">
+<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/46daf208-59db-4186-8df1-878f1baa1293" alt="gif" width="75">
+<img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/85400e53-0248-41d1-9469-6de8509003eb" alt="gif" width="75">
 
 
 
