@@ -24,7 +24,7 @@ Soy un apasionado desarrollador full stack junior con experiencia en la creació
 - TypeScript
 - Next.js
 - Bootstrap
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; align-items: center;">
     <div style="margin-bottom: 10px;">
         <img src="https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/54966330-c777-4ac3-878f-2994b23f05da" alt="gif" width="75">
     </div>
