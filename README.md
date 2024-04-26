@@ -2,6 +2,8 @@
 
 # Les cuento un poco de mi como desarrollador 
 
+![giphy (6)](https://github.com/Gonzadeveloper/Gonzadeveloper/assets/95725500/2b3f6a0e-c6ef-4f27-8069-c96fb9e66a16)
+
 Hola, ¡soy Gonzalo! 👋
 Soy un apasionado desarrollador full stack junior con experiencia en la creación de aplicaciones web emocionantes y funcionales. Mi enfoque principal es utilizar tecnologías modernas para construir productos que mejoren la experiencia del usuario y resuelvan problemas de manera eficiente.
 
