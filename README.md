@@ -7,9 +7,9 @@ Soy un apasionado desarrollador full stack junior con experiencia en la creació
 
 # Mis Proyectos Destacados:
 
-1. [Nombre del Proyecto](Enlace al Proyecto): Descripción breve del proyecto y las tecnologías utilizadas (React, Node.js, etc.).
-2. [Nombre del Proyecto](Enlace al Proyecto): Descripción breve del proyecto y las tecnologías utilizadas (React, Node.js, etc.).
-3. [Nombre del Proyecto](Enlace al Proyecto): Descripción breve del proyecto y las tecnologías utilizadas (React, Node.js, etc.).
+1. [PI Drivers]((https://github.com/Gonzadeveloper/PI-drivers)): Este es un proyecto realizado en el bootcamp Henry para evaludar mis habilidades adquiridas a lo largo de el. Lo realice de manera indivudual y utilice tecnologias como React, Node.JS PosgreSQL entre otras.
+2. [Rick And Morty]((https://github.com/Gonzadeveloper/Proyecto-integrador-rick-and-Morty-)): Este es un proyecto que integra todos los modulos que vi en el Bootcamp de Henry, donde se trabaja con un conjunto de tecnologías PERN (PostgreSQL, Express, React, Node.js).
+
 
 # Tecnologías que Domino:
 
