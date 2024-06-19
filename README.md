@@ -9,8 +9,9 @@ Soy un apasionado desarrollador full stack con experiencia en la creación de ap
 
 # Mis Proyectos Destacados:
 
-1. [PI Drivers](https://github.com/Gonzadeveloper/PI-drivers): Este es un proyecto realizado en el bootcamp Henry para evaludar mis habilidades adquiridas a lo largo de el. Lo realice de manera indivudual y utilice tecnologias como React, Node.JS PosgreSQL entre otras.
-2. [Rick And Morty](https://github.com/Gonzadeveloper/Proyecto-integrador-rick-and-Morty-): Este es un proyecto que integra todos los modulos que vi en el Bootcamp de Henry, donde se trabaja con un conjunto de tecnologías PERN (PostgreSQL, Express, React, Node.js).
+1. [Electroemporium](https://github.com/Gonzadeveloper/PF): Electro Emporium es un marketplace de compra y venta de productos electrónicos, desarrollado por un equipo de 7 personas. Las tenoclogias que se usaron para crear este proyecto fueron  React, Node.JS PosgreSQL, Typescript, Bootstrap entre otras.
+2. [PI Drivers](https://github.com/Gonzadeveloper/PI-drivers): Este es un proyecto realizado en el bootcamp Henry para evaludar mis habilidades adquiridas a lo largo de el. Lo realice de manera indivudual y utilice tecnologias como React, Node.JS PosgreSQL entre otras.
+3. [Rick And Morty](https://github.com/Gonzadeveloper/Proyecto-integrador-rick-and-Morty-): Este es un proyecto que integra todos los modulos que vi en el Bootcamp de Henry, donde se trabaja con un conjunto de tecnologías PERN (PostgreSQL, Express, React, Node.js).
 
 
 # Tecnologías que Domino:
